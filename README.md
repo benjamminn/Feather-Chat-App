@@ -1,5 +1,6 @@
 # Feather Chat App
-A classic console group messaging application made for educational purposes. 
+A classic console group messaging application made as an educational exercise.
+. 
  
  # Features
  
