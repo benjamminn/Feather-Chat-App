@@ -1,5 +1,5 @@
 # Feather Chat App
-A classic console group messaging application made as an educational exercise.
+A classic console group messaging application for Windows, Mac OS, and Linux made as an educational exercise.
 . 
  
  # Features
@@ -11,7 +11,7 @@ A classic console group messaging application made as an educational exercise.
 
 # Getting Started
 
-1. Compile the server and client.
+1. Download the server and client.
 
 2. Ensure the port 2019 is port forwarded on the machine that the server will be running on.
 
