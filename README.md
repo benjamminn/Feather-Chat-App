@@ -7,7 +7,7 @@ A classic console group messaging application for Windows, Mac OS, and Linux mad
 - The client and server are console applications and are extremely lightweight.
 - Both client and server commands.
 - Server status codes allow for tight integration between client and server plus improved situational handling.
-- Robust error handling.
+- Error handling.
 
 # Getting Started
 
