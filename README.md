@@ -1,6 +1,6 @@
 # Feather Chat App
 A classic console group messaging application for Windows, Mac OS, and Linux made as an educational exercise.
-. 
+
  
  # Features
  
