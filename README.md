@@ -36,6 +36,9 @@ Client:
 
 /disconnect: Disconnects the client from the server.
 
+# Screenshots
+![game.PNG](https://raw.githubusercontent.com/benjamminn/Feather-Chat-App/master/screenshots/clientserver_picture.PNG)
+
 # Future Plans
 
 - More Commands
